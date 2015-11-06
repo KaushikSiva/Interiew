@@ -149,7 +149,8 @@ LinkedList<br/>
 134 reverse every kth node<br/>
 ----------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-----------------<br/>
 <b>ANSWERS:</b><br/>
-Q1-Q80:Search in Solution file like for example //Q1 .Most answers for 1-80 are in arrays and dp/Arrays.class and Strings.class<br/>
+Q1-Q80:Search in Solution file like for example //Q1 .Most answers for 1-80 are in https://github.com/KaushikSiva/Interiew/blob/master/arrays/src/arraysanddp/Arrays.java and 
+https://github.com/KaushikSiva/Interiew/blob/master/arrays/src/strings/Strings.java<br/>
 Q81-106 refer Binary Trees class,mytries class for q107<br/>
 Q108-113 are in cracking the coding interview book 114-117 stack overflow or google it<br/>
 Q118-123 Cracking the coding interview bool<br/>
