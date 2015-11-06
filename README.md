@@ -1,3 +1,4 @@
+==================<br/>
 Arrays and Strings<br/>
 ==================<br/>
 1 Implement an algorithm to determine if a string has all unique characters. What if you can not use additional data structures?<br/>
@@ -75,6 +76,7 @@ Arrays and Strings<br/>
 73 longest repeating substring(i dont have answer yet)<br/>
 74 weighted job scheduling(i dint write answer yet)<br/>
 75 find smallest substring of s1 while contains all characters of s2(i dint write answer yet)<br/>
+==================<br/>
 Graphs<br/>
 ==================<br/>
 76 bfs<br/>
@@ -82,6 +84,7 @@ Graphs<br/>
 78 djikstra<br/>
 79 floydd warshals(refer wiki)<br/>
 80 kruskal<br/>
+==================<br/>
 Trees<br/>
 ==================<br/>
 81 insert(all tree questions follow till 107)<br/>
@@ -111,6 +114,9 @@ Trees<br/>
 105 are they structurally identical<br/>
 106 vertical sum<br/>
 107 trie<br/>
+==================<br/>
+Stacks<br/>
+==================<br/>
 108 discuss stack,queue linkedlist relationship<br/>
 109 Describe how you could use a single array to implement three stacks.<br/>
 110 How would you design a stack which, in addition to push and pop, also has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time.<br/>
@@ -121,6 +127,9 @@ Trees<br/>
 115 valid parenthesis<br/>
 116 Evaluate Reverse Polish Notation (Stack)<br/>
 117 heapify/heapsort<br/>
+==================<br/>
+LinkedList<br/>
+==================<br/>
 118 Write code to remove duplicates from an unsorted linked list.<br/>
 119 How would you solve this problem if a temporary buffer is not allowed?<br/>
 120 Implement an algorithm to find the nth to last element of a singly linked list.<br/>
@@ -139,7 +148,7 @@ Trees<br/>
 133 which accepts a number k and a linked list and deletes every kth node of that list. <br/>
 134 reverse every kth node<br/>
 ---------------------------<br/>
-answers:<br/>
+<b>answers:</b><br/>
 Q1-Q80:Search in Solution file like for example //Q1 .Most answers for 1-80 are in arrays and dp/Arrays.class and Strings.class<br/>
 Q81-106 refer Binary Trees class,mytries class for q107<br/>
 Q108-113 are in cracking the coding interview book 114-117 stack overflow or google it<br/>
