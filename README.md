@@ -1,3 +1,5 @@
+Arrays and Strings
+==================<br/>
 1 Implement an algorithm to determine if a string has all unique characters. What if you can not use additional data structures?<br/>
 2 Write code to reverse a C-Style String. (C-String means that “abcd” is represented as five characters, including the null character.)<br/>
 3 Design an algorithm and write code to remove the duplicate characters in a string without using any additional buffer.<br/> NOTE: One or two additional variables are fine. An extra copy of the array is not.
