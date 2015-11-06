@@ -1,4 +1,4 @@
-Arrays and Strings
+Arrays and Strings<br/>
 ==================<br/>
 1 Implement an algorithm to determine if a string has all unique characters. What if you can not use additional data structures?<br/>
 2 Write code to reverse a C-Style String. (C-String means that “abcd” is represented as five characters, including the null character.)<br/>
@@ -71,15 +71,19 @@ Arrays and Strings
 69 bitonic sequence<br/>
 70 multiply except the index<br/>
 71 LRU Cache<br/>
----------------------<br/>
+----------Not Answered-----------<br/>
 73 longest repeating substring(i dont have answer yet)<br/>
 74 weighted job scheduling(i dint write answer yet)<br/>
 75 find smallest substring of s1 while contains all characters of s2(i dint write answer yet)<br/>
+Graphs<br/>
+==================<br/>
 76 bfs<br/>
 77 dfs<br/>
 78 djikstra<br/>
 79 floydd warshals(refer wiki)<br/>
 80 kruskal<br/>
+Trees<br/>
+==================<br/>
 81 insert(all tree questions follow till 107)<br/>
 82 create<br/>
 83 is subtree of a tree?<br/>
