@@ -154,6 +154,6 @@ https://github.com/KaushikSiva/Interiew/blob/master/arrays/src/strings/Strings.j
 Q81-106 refer https://github.com/KaushikSiva/Interiew/blob/master/Trees/src/BinaryTrees.java<br/>
 Q107  refer https://github.com/KaushikSiva/Interiew/blob/master/Trees/src/mytries.java<br/>
 Q108-113 are in cracking the coding interview book 114-117 stack overflow or google it<br/>
-Q118-123 Cracking the coding interview bool<br/>
+Q118-123 Cracking the coding interview book<br/>
 Q124-https://github.com/KaushikSiva/Interiew/blob/master/LinkedList/src/LinkedList.java<br/>
 Q125 and above-https://github.com/KaushikSiva/Interiew/blob/master/LinkedList/src/LinkedList2.java
